@@ -52,7 +52,7 @@
 
 @font-face {
     font-family: 'Segoe UI';
-    src: url('/assets/styles/font-packages/SegoeUI-BoldItalic.woff2') format('woff2'), url('/assets/styles/font-packages/SegoeUI-BoldItalic.woff') format('woff');
+    src: url('./font-packages/SegoeUI-BoldItalic.woff2') format('woff2'), url('./font-packages/SegoeUI-BoldItalic.woff') format('woff');
     font-weight: bold;
     font-style: italic;
     font-display: swap;
@@ -60,7 +60,7 @@
 
 @font-face {
     font-family: 'Segoe UI';
-    src: url('/assets/styles/font-packages/SegoeUI-Italic.woff2') format('woff2'), url('/assets/styles/font-packages/SegoeUI-Italic.woff') format('woff');
+    src: url('./font-packages/SegoeUI-Italic.woff2') format('woff2'), url('./font-packages/SegoeUI-Italic.woff') format('woff');
     font-weight: normal;
     font-style: italic;
     font-display: swap;
@@ -68,7 +68,7 @@
 
 @font-face {
     font-family: 'Segoe UI';
-    src: url('/assets/styles/font-packages/SegoeUI-Bold.woff2') format('woff2'), url('/assets/styles/font-packages/SegoeUI-Bold.woff') format('woff');
+    src: url('./font-packages/SegoeUI-Bold.woff2') format('woff2'), url('./font-packages/SegoeUI-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -76,7 +76,7 @@
 
 @font-face {
     font-family: 'Segoe UI';
-    src: url('/assets/styles/font-packages/SegoeUI.woff2') format('woff2'), url('/assets/styles/font-packages/SegoeUI.woff') format('woff');
+    src: url('./font-packages/SegoeUI.woff2') format('woff2'), url('./font-packages/SegoeUI.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;

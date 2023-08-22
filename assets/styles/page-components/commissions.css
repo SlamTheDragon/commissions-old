@@ -26,7 +26,7 @@
     flex-direction: column;
     justify-content: space-between;
     color: white;
-    background-image: url('/assets/images/Cover-Art.jpg');
+    background-image: url('../../../assets/images/Cover-Art.jpg');
     background-position: center;
     background-size: cover;
     overflow: hidden;
@@ -453,7 +453,7 @@ a:focus-visible > #headerArrow {
 #imageContainer {
     display: flex;
     flex-direction: column;
-    background-image: url('/assets/images/Placeholder.png');
+    background-image: url('../../../assets/images/Placeholder.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -564,7 +564,7 @@ a:focus-visible > #headerArrow {
 
 #profileArtPreviewImage {
     overflow: hidden;
-    background-image: url('/assets/images/gallery-overview.png');
+    background-image: url('../../../assets/images/gallery-overview.png');
     background-position: center;
     background-size: cover;
     height: 100%;
@@ -683,38 +683,38 @@ a:focus-visible > #headerArrow {
 /* PORTRAITS */
 
 #profileA {
-    background-image: url('/assets/images/character-illustration-1.jpg');
+    background-image: url('../../../assets/images/character-illustration-1.jpg');
 }
 
 #profileC {
-    background-image: url('/assets/images/character-illustration-3.jpg');
+    background-image: url('../../../assets/images/character-illustration-3.jpg');
 }
 
 #profileE {
-    background-image: url('/assets/images/character-illustration-5.jpg');
+    background-image: url('../../../assets/images/character-illustration-5.jpg');
 }
 
 #profileB {
-    background-image: url('/assets/images/character-illustration-2.jpg');
+    background-image: url('../../../assets/images/character-illustration-2.jpg');
 }
 
 #profileD {
-    background-image: url('/assets/images/character-illustration-4.jpg');
+    background-image: url('../../../assets/images/character-illustration-4.jpg');
 }
 
 #profileF {
-    background-image: url('/assets/images/character-illustration-6.jpg');
+    background-image: url('../../../assets/images/character-illustration-6.jpg');
 }
 
 
 /* ILLUSTRATIONS */
 
 #illustrationA {
-    background-image: url('/assets/images/character-illustration-a.jpg');
+    background-image: url('../../../assets/images/character-illustration-a.jpg');
 }
 
 #illustrationB {
-    background-image: url('/assets/images/character-illustration-b.jpg');
+    background-image: url('../../../assets/images/character-illustration-b.jpg');
 }
 
 
@@ -773,7 +773,7 @@ a:focus-visible > #headerArrow {
     margin: 15px;
     width: 749px;
     height: 503px;
-    background-image: url('/assets/images/Abstract-Art.jpg');
+    background-image: url('../../../assets/images/Abstract-Art.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
